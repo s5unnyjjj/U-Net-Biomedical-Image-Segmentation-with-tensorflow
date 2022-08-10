@@ -8,9 +8,16 @@
 
 # Project Structure </br>
  * code: contains all codes
-    * settting.py: 
-    * preprocessing.py
-    * model.py
-    * train.py
+   * train.py
+   * model.py
+   * settting.py: 
+   * preprocessing.py
 
+# Dataset </br>
+ * dd
+
+# Traininig
+<코드블럭> python train.py
+
+# Validation
 
