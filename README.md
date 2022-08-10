@@ -14,11 +14,10 @@
    * preprocessing.py
 
 ## Dataset </br>
-I used biomedical images as dataset. (For example, below)
+Uses biomedical images as dataset, which are saved in 'dataset' folder. It has three folders: train, validataion, test
 
-I saved dataset in 'dataset' folder. It has three folders: train, validataion, test
 
-## Traininig </br>
+## Traininig
 ```
 python train.py
  > Session().training()
