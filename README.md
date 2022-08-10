@@ -14,9 +14,9 @@
    * preprocessing.py
 
 ## Dataset </br>
-### I used biomedical images as dataset. (For example, below)
+I used biomedical images as dataset. (For example, below)
 
-### I saved dataset in 'dataset' folder. It has three folders: train, validataion, test
+I saved dataset in 'dataset' folder. It has three folders: train, validataion, test
 
 ## Traininig </br>
 ```
