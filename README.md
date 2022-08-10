@@ -16,12 +16,12 @@
 # Dataset </br>
  * dd
 
-# Traininigt </br>
+# Traininig </br>
 ```
-make code block with no leading spaces
+python train.py: Session().training()
 ```
-'''
-python train.py
-'''
-# Validation
 
+# Validation
+```
+python train.py: Session().validation()
+```
