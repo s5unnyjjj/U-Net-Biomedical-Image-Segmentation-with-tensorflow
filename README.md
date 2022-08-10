@@ -17,7 +17,7 @@
  * dd
 
 # Traininigt </br>
-코드블럭 python train.py
+console.log('python train.py')
 
 # Validation
 
