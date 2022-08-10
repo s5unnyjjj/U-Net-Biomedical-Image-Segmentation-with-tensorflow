@@ -16,8 +16,8 @@
 # Dataset </br>
  * dd
 
-# Traininig
-<코드블럭> python train.py
+# Traininigt </br>
+코드블럭 python train.py
 
 # Validation
 
