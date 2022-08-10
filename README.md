@@ -18,12 +18,12 @@
 
 ## Traininig </br>
 ```
-python train.py </br>
+python train.py
  > Session().training()
 ```
 
 ## Validation
 ```
-python train.py </br>
+python train.py
  > Session().validation()
 ```
