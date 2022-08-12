@@ -44,10 +44,9 @@ python train.py
 |:---|:---:|---:| 
 |<img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="80" height="100">|<img src="https://user-images.githubusercontent.com/70457520/184367223-bb6a6945-6f1d-4cb5-b418-ddc907355c36.png" width="80" height="100">|<img src="https://user-images.githubusercontent.com/70457520/184367259-8bb46583-3bb5-4de4-8af9-9927d0af2065.png" width="30" height="20">|
 
-|Iter 400|Iter 500|Iter 2000|
-|---|---|
-|내용 1|내용 2|내용 2|
-
+|Iter 100|Iter 200|Iter 300|
+|:---|:---:|---:| 
+|내용1|내용2|내용3| 
 
 <figure class="third">
     <img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="30" height="20">
