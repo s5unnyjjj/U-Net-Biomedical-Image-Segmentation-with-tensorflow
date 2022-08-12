@@ -8,7 +8,6 @@ This project is written code based on reading of 'U-Net: Convolutional Networks 
  * Tensorflow >= 2.x</br>
  * Opencv</br>
  * Pillow</br>
-</br>
 
 ## Project Structure </br>
  * code: contains all codes
@@ -16,13 +15,12 @@ This project is written code based on reading of 'U-Net: Convolutional Networks 
    * model.py: Build the architecture of u-net model
    * settting.py: Assign value of various parameters
    * preprocessing.py: Argumentation for changing the size of datasets from input image to patch image
-</br>
 
 ## Dataset </br>
 Uses biomedical images as dataset, which are saved in 'dataset' folder. It has three folders: train, validataion, test
-</br>
 
-## Traininig
+
+## Traininig </br>
 ```
 python train.py
  > Session().training()
