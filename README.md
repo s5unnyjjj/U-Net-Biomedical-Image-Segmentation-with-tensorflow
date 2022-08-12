@@ -36,3 +36,7 @@ python train.py
  > Session().validation()
 ```
  * Validataion result at some epochs
+<figure class="half">
+    <img src="http://xxx.jpg">
+    <img src="http://yyy.jpg">
+figure>
