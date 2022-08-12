@@ -35,7 +35,7 @@ python train.py
 python train.py
  > Session().validation()
 ```
- * Validataion result at some epochs
+ * Validataion result at some epochs </br>
 |Iter 100|Iter 200|Iter 300|
 |---|---|
 |내용 1|내용 2|내용 2|
