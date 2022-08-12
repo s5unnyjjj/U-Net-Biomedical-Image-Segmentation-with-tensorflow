@@ -6,12 +6,14 @@
  * Opencv</br>
  * Pillow</br>
 
+
 ## Project Structure </br>
  * code: contains all codes
-   * train.py
-   * model.py
-   * settting.py: 
-   * preprocessing.py
+   * train.py: Code to train the u-net model for predicting the label image
+   * model.py: Build the architecture of u-net model
+   * settting.py: Assign value of various parameters
+   * preprocessing.py: Argumentation for changing the size of datasets from input image to patch image
+   
 
 ## Dataset </br>
 Uses biomedical images as dataset, which are saved in 'dataset' folder. It has three folders: train, validataion, test
