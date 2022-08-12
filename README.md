@@ -36,7 +36,7 @@ python train.py
  > Session().validation()
 ```
  * Validataion result at some epochs
-<figure class="half">
+<figure class="third">
     <img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="30%" height="20%">
     <img src="https://user-images.githubusercontent.com/70457520/184367223-bb6a6945-6f1d-4cb5-b418-ddc907355c36.png" width="30%" height="20%">
     <img src="https://user-images.githubusercontent.com/70457520/184367259-8bb46583-3bb5-4de4-8af9-9927d0af2065.png" width="53%" height="20%">
