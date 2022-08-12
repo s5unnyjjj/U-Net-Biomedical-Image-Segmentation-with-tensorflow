@@ -36,6 +36,15 @@ python train.py
  > Session().validation()
 ```
  * Validataion result at some epochs
+|Iter 100|Iter 200|Iter 300|
+|---|---|
+|내용 1|내용 2|내용 2|
+
+|Iter 400|Iter 500|Iter 2000|
+|---|---|
+|내용 1|내용 2|내용 2|
+
+
 <figure class="third">
     <img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="30" height="20">
     <img src="https://user-images.githubusercontent.com/70457520/184367223-bb6a6945-6f1d-4cb5-b418-ddc907355c36.png" width="30" height="20">
