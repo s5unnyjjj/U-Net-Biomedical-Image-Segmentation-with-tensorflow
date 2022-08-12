@@ -35,3 +35,4 @@ python train.py
 python train.py
  > Session().validation()
 ```
+ * Validataion result at some epochs
