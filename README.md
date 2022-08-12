@@ -29,13 +29,10 @@ python train.py
  * Training loss graph
 <img src = "https://user-images.githubusercontent.com/70457520/184366315-34267b21-d9a1-4633-9649-dcd856121b61.png" width="50%" height="50%">
 
-|Iter 100|Iter 200|Iter 300|
-|---|---|
-|내용 1|내용 2|내용 2|
-
-|Iter 400|Iter 500|Iter 2000|
-|---|---|
-|내용 1|내용 2|내용 2|
+|왼쪽 정렬|가운데 정렬|오른쪽 정렬| 
+|:---|:---:|---:| 
+|내용1|내용2|내용3| 
+|내용1|내용2|내용3| 
 
 
 ## Validation
