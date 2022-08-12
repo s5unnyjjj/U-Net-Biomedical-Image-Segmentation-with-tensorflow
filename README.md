@@ -27,7 +27,7 @@ python train.py
  > Session().training()
 ```
  * Training loss graph
-<img src = "https://user-images.githubusercontent.com/70457520/184365069-ddef8580-6a3d-4bfb-94a6-2d7ca62180c0.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/70457520/184366315-34267b21-d9a1-4633-9649-dcd856121b61.png" width="50%" height="50%">
 
 
 ## Validation
