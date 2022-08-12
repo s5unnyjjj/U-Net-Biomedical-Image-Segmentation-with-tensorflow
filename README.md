@@ -26,6 +26,8 @@ Uses biomedical images as dataset, which are saved in 'dataset' folder. It has t
 python train.py
  > Session().training()
 ```
+ * Training loss graph
+ * 
 
 ## Validation
 ```
