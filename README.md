@@ -43,11 +43,9 @@ python train.py
 
 
 |Iter 100|Iter 200|Iter 300|
-|:---|:---:|---:| 
-|<img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="370" height="350">|<img src="https://user-images.githubusercontent.com/70457520/184367223-bb6a6945-6f1d-4cb5-b418-ddc907355c36.png" width="370" height="350">|<img src="https://user-images.githubusercontent.com/70457520/184367259-8bb46583-3bb5-4de4-8af9-9927d0af2065.png" width="370" height="350">| 
+|:---:|:---:|:---:| 
+|<img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="380" height="350">|<img src="https://user-images.githubusercontent.com/70457520/184367223-bb6a6945-6f1d-4cb5-b418-ddc907355c36.png" width="380" height="350">|<img src="https://user-images.githubusercontent.com/70457520/184367259-8bb46583-3bb5-4de4-8af9-9927d0af2065.png" width="380" height="350">| 
 
-<figure class="third">
-    <img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="30" height="20">
-    <img src="https://user-images.githubusercontent.com/70457520/184367223-bb6a6945-6f1d-4cb5-b418-ddc907355c36.png" width="30" height="20">
-    <img src="https://user-images.githubusercontent.com/70457520/184367259-8bb46583-3bb5-4de4-8af9-9927d0af2065.png" width="30" height="20">
-figure>
+|Iter 400|Iter 500|Iter 2000|
+|:---:|:---:|:---:| 
+|<img src="https://user-images.githubusercontent.com/70457520/184367329-0f89e345-0aa7-4847-996f-4714e3e491b8.png" width="380" height="350">|<img src="https://user-images.githubusercontent.com/70457520/184367422-026fa515-8562-4cce-a19a-7f2c31e12436.png" width="380" height="350">|<img src="https://user-images.githubusercontent.com/70457520/184367452-fe7929d7-2706-4fca-b8c7-156a00a4eb7b.png" width="380" height="350">| 
