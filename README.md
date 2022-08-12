@@ -1,13 +1,14 @@
 # U-Net-Biomedical-Image-Segmentation-with-tensorflow </br>
 This project is written code based on reading of 'U-Net: Convolutional Networks for Biomedical Image Segmentation' paper.
  > Reference: https://arxiv.org/abs/1505.04597
+</br>
 
 ## Prerequisite </br>
  * Python >= 3.6</br>
  * Tensorflow >= 2.x</br>
  * Opencv</br>
  * Pillow</br>
-
+</br>
 
 ## Project Structure </br>
  * code: contains all codes
@@ -15,11 +16,11 @@ This project is written code based on reading of 'U-Net: Convolutional Networks 
    * model.py: Build the architecture of u-net model
    * settting.py: Assign value of various parameters
    * preprocessing.py: Argumentation for changing the size of datasets from input image to patch image
-   
+</br>
 
 ## Dataset </br>
 Uses biomedical images as dataset, which are saved in 'dataset' folder. It has three folders: train, validataion, test
-
+</br>
 
 ## Traininig
 ```
@@ -28,7 +29,7 @@ python train.py
 ```
  * Training loss graph
 <img src = "https://user-images.githubusercontent.com/70457520/184366315-34267b21-d9a1-4633-9649-dcd856121b61.png" width="50%" height="50%">
-
+</br>
 
 ## Validation
 ```
