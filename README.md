@@ -42,7 +42,7 @@ python train.py
  * Validataion result at some epochs </br>
 |Iter 100|Iter 200|Iter 300|
 |---|---|
-|내용 1|내용 2|내용 2|
+|<img src="https://user-images.githubusercontent.com/70457520/184367132-8207dadc-84c0-4627-8c21-907bd364ea2d.png" width="80" height="100">|내용 2|내용 2|
 
 |Iter 400|Iter 500|Iter 2000|
 |---|---|
